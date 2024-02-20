@@ -12,16 +12,16 @@
 
   ### About
 <div align="center">
-Hello, and welcome to my GitHub profile! My name is Igwe Francis, or Fran6 for short. I am a self-taught <b>MERN Stack developer</b> who loves to code and learn new technologies. 
-  
+Hello, and welcome to my GitHub profile! My name is Igwe Francis, or Fran6 for short. I am a self-taught <b>MERN Stack developer</b> who loves to code and learn new technologies.  
+<hr>
 I'm a student and currently, I'm going through The Odin Project's full-stack developer course, which I've been on for several months.
 Through practice and experimentation, I have honed my skills in HTML, CSS, JavaScript, and I am continually improving.
-I am always on the lookout for new challenges that will push me out of my comfort zone and help me grow my skills.
-
+I am always on the lookout for new challenges that will push me out of my comfort zone and help me grow my skills.  
+<hr>
 My ultimate dream is to create innovative and user-friendly web applications that provide real value to users and one day lead teams of tech geeks into a new future of technology.
-
+<hr>
 I am always open to new ideas and opportunities to collaborate with other passionate developers.
-
+<hr>
 Thank you for visiting my profile, and I look forward to connecting with you! Do have a pleasant day😉.
   </div>
 <br>
