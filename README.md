@@ -7,15 +7,17 @@
 </h2>
 <br />
 
-I'm a university student and currently, I'm going through the Odin project full-stack developer course, which I've been on for months.
+Hello, and welcome to my GitHub profile! My name is Igwe Francis, or Fran6 for short. I am a self-taught **MERN Stack developer** who loves to code and learn new technologies.
 
-- Through practice and experimentation, I have honed my skills in HTML, CSS, JavaScript, and I am continually improving every day.
+- I'm a student and currently, I'm going through The Odin Project's full-stack developer course, which I've been on for several months.
+
+- Through practice and experimentation, I have honed my skills in HTML, CSS, JavaScript, and I am continually improving.
 
 - My portfolio on GitHub reflects my dedication to constantly learning and improving as a developer. I am always on the lookout for new challenges that will push me out of my comfort zone and help me grow my skills.
 
 - My ultimate dream is to create innovative and user-friendly web applications that provide real value to users and one day lead teams of tech geeks into a new future of technology.
 
-- I am always open to new ideas and opportunities to collaborate with other passionate developers. 
+- I am always open to new ideas and opportunities to collaborate with other passionate developers.
 
 - Thank you for visiting my profile, and I look forward to connecting with you!
   
