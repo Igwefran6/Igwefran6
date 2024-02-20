@@ -6,17 +6,17 @@
 <img src="https://lh3.googleusercontent.com/pw/ABLVV85YaNzxXqSrEzGC-UZPqzlkcPX2r8W_jCzKabbos_2-UkuaBrVq5pjKxpEDfG0nZj6F-YtGBCsPowSEmeopCyD0ss-fg2ovyUSWYSyZ4Rkuzx-eH4NpLYXAgd8XNYM6Tsiz9XlZG5_rfxczsVctWTQ=w250-h250-s-no-gm?authuser=0" alt="hacker" style="width: 50px;">
 </h2>
 <br />
-<!--
-**Igwefran6/Igwefran6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a university student and currently, I'm going through the Odin project full-stack developer course, which I've been on for months.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Through practice and experimentation, I have honed my skills in HTML, CSS, JavaScript, and I am continually improving every day.
+
+- My portfolio on GitHub reflects my dedication to constantly learning and improving as a developer. I am always on the lookout for new challenges that will push me out of my comfort zone and help me grow my skills.
+
+- My ultimate dream is to create innovative and user-friendly web applications that provide real value to users and one day lead teams of tech geeks into a new future of technology.
+
+- I am always open to new ideas and opportunities to collaborate with other passionate developers. 
+
+- Thank you for visiting my profile, and I look forward to connecting with you!
+  
+- Do have a pleasant day😉.
