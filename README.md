@@ -3,12 +3,12 @@
 <div align="center">  
 <img src="https://lh3.googleusercontent.com/pw/ABLVV85YaNzxXqSrEzGC-UZPqzlkcPX2r8W_jCzKabbos_2-UkuaBrVq5pjKxpEDfG0nZj6F-YtGBCsPowSEmeopCyD0ss-fg2ovyUSWYSyZ4Rkuzx-eH4NpLYXAgd8XNYM6Tsiz9XlZG5_rfxczsVctWTQ=w250-h250-s-no-gm?authuser=0" alt="hacker" style="width: 50px;">
 </div>
-<br />
+
+<br>
 
 <img src="https://lh3.googleusercontent.com/pw/ABLVV86iiVM1T5Y058P9dmfkdwPm0gHdH7QXvf3CGIxoYFQR7RkqMMLZigGaNb5F9e5OzWaXANUPFwfVR4UyGvVHjz82d-7cjXgtDUSoA2f59hj0GSzoeGGXobPIrkiQu_Jw44UQlxWP6RmES2UQGoImnLg=w721-h7-s-no-gm?authuser=0">
 
-  <h2> About</h2>
-<br />
+  <h2>About</h2>
 
 Hello, and welcome to my GitHub profile! My name is Igwe Francis, or Fran6 for short. I am a self-taught **MERN Stack developer** who loves to code and learn new technologies.
 
@@ -25,14 +25,28 @@ Hello, and welcome to my GitHub profile! My name is Igwe Francis, or Fran6 for s
 - Thank you for visiting my profile, and I look forward to connecting with you!
   
 - Do have a pleasant day😉.
-<br />
+  
+<br>
+
 <img src="https://lh3.googleusercontent.com/pw/ABLVV86iiVM1T5Y058P9dmfkdwPm0gHdH7QXvf3CGIxoYFQR7RkqMMLZigGaNb5F9e5OzWaXANUPFwfVR4UyGvVHjz82d-7cjXgtDUSoA2f59hj0GSzoeGGXobPIrkiQu_Jw44UQlxWP6RmES2UQGoImnLg=w721-h7-s-no-gm?authuser=0">
-<br />
+
+<br>
+
 <h2>Skills</h2>
-<h4>Front-end Technologies</h4>
+
+- Front-End Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+<br>
+- Softwares/Tools
 
-   
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+    ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)&nbsp;
+    ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+    ![Chatgpt](https://img.shields.io/badge/Chatgpt-%23404d59?style=for-the-badge&logo=chatgpt&logoColor=%#1793D1)&nbsp;
+
+<br>
