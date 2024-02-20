@@ -64,5 +64,14 @@ Hello, and welcome to my GitHub profile! My name is Igwe Francis, or Fran6 for s
 <br>
 
   ### :fire: Stats
+<div align="center">
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=igwefran6&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+</div>
+  
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igwefran6&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=igwefran6)](https://git.io/streak-stats)
+  </div>
