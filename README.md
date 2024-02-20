@@ -1,5 +1,11 @@
-### Hi there 👋
+<h1 align="center"><b>Hi there, I'm Igwe Francis </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<br />
 
+
+  <h2> About Me
+<img src="https://lh3.googleusercontent.com/pw/ABLVV85YaNzxXqSrEzGC-UZPqzlkcPX2r8W_jCzKabbos_2-UkuaBrVq5pjKxpEDfG0nZj6F-YtGBCsPowSEmeopCyD0ss-fg2ovyUSWYSyZ4Rkuzx-eH4NpLYXAgd8XNYM6Tsiz9XlZG5_rfxczsVctWTQ=w250-h250-s-no-gm?authuser=0" alt="hacker" style="width: 50px;">
+</h2>
+<br />
 <!--
 **Igwefran6/Igwefran6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
