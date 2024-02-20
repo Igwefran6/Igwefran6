@@ -8,7 +8,7 @@
 
 <img src="https://lh3.googleusercontent.com/pw/ABLVV86iiVM1T5Y058P9dmfkdwPm0gHdH7QXvf3CGIxoYFQR7RkqMMLZigGaNb5F9e5OzWaXANUPFwfVR4UyGvVHjz82d-7cjXgtDUSoA2f59hj0GSzoeGGXobPIrkiQu_Jw44UQlxWP6RmES2UQGoImnLg=w721-h7-s-no-gm?authuser=0">
 
-  <h2>About</h2>
+  ### About
 
 Hello, and welcome to my GitHub profile! My name is Igwe Francis, or Fran6 for short. I am a self-taught **MERN Stack developer** who loves to code and learn new technologies.
 
@@ -30,9 +30,7 @@ Hello, and welcome to my GitHub profile! My name is Igwe Francis, or Fran6 for s
 
 <img src="https://lh3.googleusercontent.com/pw/ABLVV86iiVM1T5Y058P9dmfkdwPm0gHdH7QXvf3CGIxoYFQR7RkqMMLZigGaNb5F9e5OzWaXANUPFwfVR4UyGvVHjz82d-7cjXgtDUSoA2f59hj0GSzoeGGXobPIrkiQu_Jw44UQlxWP6RmES2UQGoImnLg=w721-h7-s-no-gm?authuser=0">
 
-<br>
-
-<h2>Skills</h2>
+### Skills
 
 - **Front-End Technologies**:
 
@@ -60,3 +58,11 @@ Hello, and welcome to my GitHub profile! My name is Igwe Francis, or Fran6 for s
 
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
   ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+
+<img src="https://lh3.googleusercontent.com/pw/ABLVV86iiVM1T5Y058P9dmfkdwPm0gHdH7QXvf3CGIxoYFQR7RkqMMLZigGaNb5F9e5OzWaXANUPFwfVR4UyGvVHjz82d-7cjXgtDUSoA2f59hj0GSzoeGGXobPIrkiQu_Jw44UQlxWP6RmES2UQGoImnLg=w721-h7-s-no-gm?authuser=0">
+
+<br>
+
+  ### :fire: Stats
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=igwefran6)](https://git.io/streak-stats)
