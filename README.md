@@ -12,7 +12,7 @@
 
   ### About
 <div align="center">
-Hello, and welcome to my GitHub profile! My name is Igwe Francis, or Fran6 for short. I am a self-taught **MERN Stack developer** who loves to code and learn new technologies. 
+Hello, and welcome to my GitHub profile! My name is Igwe Francis, or Fran6 for short. I am a self-taught <b>MERN Stack developer</b> who loves to code and learn new technologies. 
   
 I'm a student and currently, I'm going through The Odin Project's full-stack developer course, which I've been on for several months.
 Through practice and experimentation, I have honed my skills in HTML, CSS, JavaScript, and I am continually improving.
