@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi there, I'm Fran6<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi there, I'm Igwefran6<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">  
 <img src="https://lh3.googleusercontent.com/pw/ABLVV85YaNzxXqSrEzGC-UZPqzlkcPX2r8W_jCzKabbos_2-UkuaBrVq5pjKxpEDfG0nZj6F-YtGBCsPowSEmeopCyD0ss-fg2ovyUSWYSyZ4Rkuzx-eH4NpLYXAgd8XNYM6Tsiz9XlZG5_rfxczsVctWTQ=w250-h250-s-no-gm?authuser=0" alt="hacker" style="width: 50px;">
@@ -12,17 +12,23 @@
 
   ### About
 <div align="center">
-Hello, and welcome to my GitHub profile! My name is Igwe Francis, or Fran6 for short. I am a self-taught <b>MERN Stack developer</b> who loves to code and learn new technologies.  
-<hr>
+<p>Hello, and welcome to my GitHub profile! My name is Igwe Francis, or Fran6 for short. I am a self-taught MERN Stack developer who loves to code and learn new technologies.</p>  
+<br/>
+  <p>
 I'm a student and currently, I'm going through The Odin Project's full-stack developer course, which I've been on for several months.
 Through practice and experimentation, I have honed my skills in HTML, CSS, JavaScript, and I am continually improving.
 I am always on the lookout for new challenges that will push me out of my comfort zone and help me grow my skills.  
-<hr>
-My ultimate dream is to create innovative and user-friendly web applications that provide real value to users and one day lead teams of tech geeks into a new future of technology.
-<hr>
+  </p>
+<br/>
+  <p>
+My ultimate dream is to create innovative and user-friendly web applications that provide real value to users and one day lead teams of tech geeks into a new future of technology.</p>
+<br/>
+  <p>
 I am always open to new ideas and opportunities to collaborate with other passionate developers.
-<hr>
-Thank you for visiting my profile, and I look forward to connecting with you! Do have a pleasant day😉.
+  </p>
+<br/>
+  <p>
+Thank you for visiting my profile, and I look forward to connecting with you! Do have a pleasant day😉.</p>
   </div>
 <br>
 
