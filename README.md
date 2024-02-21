@@ -57,8 +57,9 @@ Thank you for visiting my profile, and I look forward to connecting with you! Do
   ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
   
 </div>
-
+<div align="center">
 <img src="https://lh3.googleusercontent.com/pw/ABLVV86iiVM1T5Y058P9dmfkdwPm0gHdH7QXvf3CGIxoYFQR7RkqMMLZigGaNb5F9e5OzWaXANUPFwfVR4UyGvVHjz82d-7cjXgtDUSoA2f59hj0GSzoeGGXobPIrkiQu_Jw44UQlxWP6RmES2UQGoImnLg=w721-h7-s-no-gm?authuser=0">
+</div>
 
 <br>
 
