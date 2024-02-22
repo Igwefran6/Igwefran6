@@ -12,7 +12,7 @@
 
   ### About
 <div align="center">
-<p>Hello, and welcome to my GitHub profile! My name is Igwe Francis, Igwefran6 or fran6 for short. I am a self-taught MERN Stack developer who loves to code and learn new technologies.</p>  
+<p>Welcome to my GitHub profile! My name is Igwe Francis, Igwefran6 or fran6 for short. I am a self-taught MERN Stack developer who loves to code and learn new technologies.</p>  
 <br/>
   <p>
 I'm a student and currently, I'm going through The Odin Project's full-stack developer course, which I've been on for several months.
